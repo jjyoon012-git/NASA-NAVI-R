@@ -1,4 +1,4 @@
-## **AIRBENDER: NASA TEMPO-based Personalized Air Quality Forecasting System**
+## **🛰️ AIRBENDER: NASA TEMPO-based Personalized Air Quality Forecasting System**
 
 **Members:**  
 - [JIHO RYU](https://github.com/ryujihos0105)  
